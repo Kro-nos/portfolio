@@ -22,7 +22,7 @@ const SiteHead = ({ title }) => (
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content="#252934" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://rahulsharma.vercel.app/" />
+    <meta property="og:url" content="https://portfolio-kro-nos.vercel.app/" />
     <meta
       property="og:title"
       content="Yuvraj Gajani - Full Stack Developer"
@@ -33,7 +33,7 @@ const SiteHead = ({ title }) => (
     />
     <meta property="og:image" content="https://res.cloudinary.com/rahulsharma/image/upload/v1627928959/logo_okieap.png" />
     <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://rahulsharma.vercel.app/" />
+    <meta property="twitter:url" content="https://portfolio-kro-nos.vercel.app/" />
     <meta
       property="twitter:title"
       content="Yuvraj Gajani - Full Stack Developer"
