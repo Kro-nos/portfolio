@@ -9,12 +9,12 @@ const projects = [
             {
                 label: 'Website',
                 icon: 'link',
-                url: 'https://github.com/Kro-nos',
+                url: 'https://www.canva.com/design/DAEuGfmoUDo/-337B8fZUltv5GnZk0KS4w/view?utm_content=DAEuGfmoUDo&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent',
             },
             // {
             //     label: 'Github',
             //     icon: 'github',
-            //     url: 'https://github.com/Rahul5430/to-do-list',
+            //     url: 'https://github.com',
             // },
         ],
     },
