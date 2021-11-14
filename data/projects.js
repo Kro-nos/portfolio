@@ -1,7 +1,7 @@
 const projects = [
     {
         name: 'Multicasting Multimedia over IP',
-        description: "The traditional method of streaming media was through radios in which one could stream only audio and its quality depends on the radio waves signal. Video streaming was through a television which would require a cable connection where the service provider has full control on the media like (pausing, terminating, resuming). Cables and chords depend on the quality of streaming which can interfere with the experience. To eliminate all the issues that causes inconvenience, we built a system where media is multicast over IP.",
+        description: "A system which simulates traditinal TV or Radio by multicasting multimedia over IP. The media would be streaming continously and provider will have features to resume, pause or terminate streaming",
         // subtitle: 'Project Subtitle',
         pic: '/MMOI.jpeg',
         tech: ['Socket Programming', 'GUI: GIMP ToolKit/GTK+'],
@@ -9,7 +9,7 @@ const projects = [
             {
                 label: 'Website',
                 icon: 'link',
-                url: 'https://www.indianstreetbets.co/options/',
+                url: 'https://github.com/Kro-nos',
             },
             // {
             //     label: 'Github',
