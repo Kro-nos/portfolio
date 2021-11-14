@@ -1,7 +1,7 @@
 const projects = [
     {
         name: 'Multicasting Multimedia over IP',
-        description: "A system which simulates traditinal TV or Radio by multicasting multimedia over IP. The media would be streaming continously and provider will have features to resume, pause or terminate streaming",
+        description: "A system which simulates traditional TV or Radio by multicasting multimedia over IP. The media would be streaming continously and provider will have features to resume, pause or terminate streaming",
         // subtitle: 'Project Subtitle',
         pic: '/MMOI.jpeg',
         tech: ['Socket Programming', 'GUI: GIMP ToolKit/GTK+'],
