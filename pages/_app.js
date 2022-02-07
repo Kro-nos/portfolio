@@ -31,7 +31,7 @@ const SiteHead = ({ title }) => (
       property="og:description"
       content="Yuvraj Gajani's personal portfolio"
     />
-    <meta property="og:image" content="https://res.cloudinary.com/rahulsharma/image/upload/v1627928959/logo_okieap.png" />
+    <meta property="og:image" content="https://portfolio-kro-nos.vercel.app/white.png" />
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://portfolio-kro-nos.vercel.app/" />
     <meta
